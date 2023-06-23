@@ -1,0 +1,5 @@
+{
+    "id":"tapo-mngr",
+    "name":"Tapo Manager",
+    "load":"index.js"
+}

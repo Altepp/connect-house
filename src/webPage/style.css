@@ -1,0 +1,53 @@
+:root{
+    --primary-color: #828282
+}
+
+* {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 10px;
+ }
+  
+.left-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--primary-color);
+    height: 50px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 30px;
+}
+
+.middle-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--primary-color);
+    height: 50px;
+    padding: 10px;
+    border-radius: 20px;
+}
+  
+.right-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--primary-color);
+    height: 50px;
+    padding: 10px;
+    border-radius: 20px;
+}
+.account {
+    background-color: #035fe7;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 30px;
+    color: white;
+}
+  
